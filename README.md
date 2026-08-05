@@ -248,39 +248,6 @@ Acesso liberado ou negado
 
 ---
 
-
-# 📊 Estatísticas
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=heitorlima75-dev&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"
-    alt="Estatísticas do GitHub"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorlima75-dev&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"
-    alt="Linguagens mais utilizadas"
-  />
-</p>
-
----
-
-
-# 📈 Contribuições
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=heitorlima75-dev&theme=tokyonight&hide_border=true&locale=pt_BR"
-    alt="Sequência de contribuições"
-  />
-</p>
-
----
-
 ## 🐍 Snake das Contribuições
 
 <p align="center">
