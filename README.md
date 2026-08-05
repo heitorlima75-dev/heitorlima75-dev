@@ -281,17 +281,28 @@ Acesso liberado ou negado
 
 ---
 
-# 🐍 Snake das Contribuições
+## 🐍 Snake das Contribuições
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/heitorlima75-dev/heitorlima75-dev/output/github-contribution-grid-snake-dark.svg"
-    alt="Snake das contribuições do GitHub"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/heitorlima75-dev/heitorlima75-dev/gh-pages/github-contribution-grid-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/heitorlima75-dev/heitorlima75-dev/gh-pages/github-contribution-grid-snake.svg"
+    />
+
+    <img
+      src="https://raw.githubusercontent.com/heitorlima75-dev/heitorlima75-dev/gh-pages/github-contribution-grid-snake-dark.svg"
+      alt="Snake das contribuições do GitHub"
+    />
+  </picture>
 </p>
 
----
-
+--- 
 
 # 👀 Visitantes
 
