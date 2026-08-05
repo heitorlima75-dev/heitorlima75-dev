@@ -1,4 +1,10 @@
-
+<p align="center">
+  <img
+    src="./banner-heitor.png"
+    alt="Banner de Heitor Lima Quaia"
+    width="100%"
+  />
+</p>
 
 <h1 align="center">Olá, eu sou o Heitor Lima Quaia 👋</h1>
 
@@ -242,6 +248,7 @@ Acesso liberado ou negado
 
 ---
 
+
 # 📊 Estatísticas
 
 <p align="center">
@@ -250,7 +257,9 @@ Acesso liberado ou negado
     src="https://github-readme-stats.vercel.app/api?username=heitorlima75-dev&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"
     alt="Estatísticas do GitHub"
   />
+</p>
 
+<p align="center">
   <img
     height="170"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorlima75-dev&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"
@@ -260,7 +269,6 @@ Acesso liberado ou negado
 
 ---
 
----
 
 # 📈 Contribuições
 
@@ -270,8 +278,6 @@ Acesso liberado ou negado
     alt="Sequência de contribuições"
   />
 </p>
-
----
 
 ---
 
