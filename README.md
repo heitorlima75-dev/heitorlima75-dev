@@ -9,20 +9,20 @@
 <h1 align="center">Olá, eu sou o Heitor Lima Quaia 👋</h1>
 
 <h3 align="center">
-💻 Desenvolvedor Full Stack • 🤖 Visão Computacional • 📡 IoT • ⚙️ Automação Industrial
+  Desenvolvedor Full Stack • Visão Computacional • IoT • Automação Industrial
 </h3>
 
 <p align="center">
-🎓 Cursando Tecnólogo em Automação Industrial
-<br>
-💻 Cursando Técnico em Desenvolvimento de Sistemas
-<br>
-⚙️ Formado como Técnico em Mecatrônica
+  🎓 Cursando Tecnologia em Automação Industrial
+  <br>
+  💻 Cursando Técnico em Desenvolvimento de Sistemas
+  <br>
+  ⚙️ Formado como Técnico em Mecatrônica
 </p>
 
 <p align="center">
-Estudante do SENAI Mariano Ferraz, apaixonado por tecnologia, desenvolvimento Full Stack,
-IoT, Inteligência Artificial, Visão Computacional e Automação Industrial.
+  Desenvolvimento de sistemas integrando software, bancos de dados,
+  visão computacional, automação e dispositivos IoT.
 </p>
 
 <br>
@@ -40,8 +40,8 @@ IoT, Inteligência Artificial, Visão Computacional e Automação Industrial.
 </p>
 
 ---
-
-# 👨‍💻 Sobre mim
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"/>
+## 👨‍💻 Sobre mim
 
 - 🎓 Cursando Tecnologia em Automação Industrial
 - 💻 Cursando Técnico em Desenvolvimento de Sistemas
@@ -55,10 +55,11 @@ IoT, Inteligência Artificial, Visão Computacional e Automação Industrial.
 - 🚀 Sempre buscando aprender novas tecnologias e desenvolver projetos inovadores
 
 ---
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"/>
+## 🚀 Projetos em destaque
 
-# 🚀 Projetos em destaque
-
-## 🔐 Sistema de Reconhecimento Facial com DeepFace
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"/>
+### 🔐 Sistema de Reconhecimento Facial com DeepFace
 
 Sistema de controle de acesso desenvolvido em Python, utilizando webcam para realizar reconhecimento facial.
 
@@ -109,7 +110,8 @@ Acesso liberado ou negado
 
 ---
 
-## 🦺 Sistema de Controle de Acesso com Verificação de EPIs
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"/>
+### 🦺 Sistema de Controle de Acesso com Verificação de EPIs
 
 Projeto de controle de acesso para ambientes industriais utilizando leitura de QR Code, Visão Computacional e IoT.
 
@@ -164,7 +166,8 @@ Acesso liberado ou negado
 
 ---
 
-# 🛠️ Tecnologias e Ferramentas
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"/>
+## 🛠️ Tecnologias e Ferramentas
 
 ## Linguagens
 
@@ -248,6 +251,7 @@ Acesso liberado ou negado
 
 ---
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"/>
 ## 🐍 Snake das Contribuições
 
 <p align="center">
@@ -259,17 +263,20 @@ Acesso liberado ou negado
 
 ---
 
-# 👀 Visitantes
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"/>
+## 👀 Visitantes
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=heitorlima75-dev&style=for-the-badge&color=blueviolet"/>
-
+  <img
+    src="https://komarev.com/ghpvc/?username=heitorlima75-dev&label=VISITAS%20AO%20PERFIL&color=7aa2f7&style=for-the-badge"
+    alt="Visitas ao perfil"
+  />
 </p>
 
 ---
 
-# 🎯 Objetivos
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"/>
+## 🎯 Objetivos
 
 - 🤖 Inteligência Artificial
 - 👁️ Visão Computacional
