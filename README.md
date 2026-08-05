@@ -21,8 +21,8 @@
 </p>
 
 <p align="center">
-  Desenvolvimento de sistemas integrando software, bancos de dados,
-  visão computacional, automação e dispositivos IoT.
+  Desenvolvimento de sistemas integrando frontend, backend, bancos de dados,
+  visão computacional, automação, sistemas embarcados e dispositivos IoT.
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 
   <a href="https://github.com/heitorlima75-dev">
     <img
-      src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=70a5fd"
+      src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=bf91f3"
       alt="GitHub"
     />
   </a>
@@ -52,11 +52,15 @@
   <li>🎓 Cursando Tecnologia em Automação Industrial</li>
   <li>💻 Cursando Técnico em Desenvolvimento de Sistemas</li>
   <li>⚙️ Formado como Técnico em Mecatrônica</li>
-  <li>🌐 Desenvolvedor Full Stack com Python, Flask, JavaScript, HTML e CSS</li>
+  <li>🌐 Desenvolvimento Full Stack com React, Next.js, JavaScript, HTML e CSS</li>
+  <li>🐍 Desenvolvimento backend com Python e Flask</li>
+  <li>🔌 Conhecimentos em C e C++ aplicados a microcontroladores, Arduino e sistemas embarcados</li>
   <li>🤖 Desenvolvimento de soluções com Inteligência Artificial e Visão Computacional</li>
   <li>👁️ Experiência com OpenCV, DeepFace e YOLO</li>
   <li>📡 Desenvolvimento de sistemas IoT utilizando ESP32 e MQTT</li>
   <li>📶 Comunicação MQTT utilizando o modelo Publish/Subscribe</li>
+  <li>🧩 Utilização do Prisma para integração e acesso ao banco de dados</li>
+  <li>☁️ Utilização do Neon para hospedagem de bancos PostgreSQL na nuvem</li>
   <li>🗄️ Experiência com PostgreSQL e MySQL</li>
   <li>🚀 Sempre buscando aprender novas tecnologias e desenvolver projetos inovadores</li>
 </ul>
@@ -195,30 +199,52 @@ Acesso liberado ou negado
 
 <h2>🛠️ Tecnologias e ferramentas</h2>
 
-<h3>Linguagens</h3>
+<h3>💻 Linguagens</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=70a5fd"/>
   <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=bf91f3"/>
-  <img src="https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=bf91f3"/>
+  <img src="https://img.shields.io/badge/C-1a1b27?style=for-the-badge&logo=c&logoColor=70a5fd"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-1a1b27?style=for-the-badge&logo=cplusplus&logoColor=bf91f3"/>
 </p>
 
-<h3>Backend</h3>
+<h3>🎨 Frontend</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=70a5fd"/>
+  <img src="https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=bf91f3"/>
+  <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=70a5fd"/>
+  <img src="https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=bf91f3"/>
+</p>
+
+<h3>🌐 Full Stack</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-1a1b27?style=for-the-badge&logo=nextdotjs&logoColor=70a5fd"/>
+</p>
+
+<h3>⚙️ Backend</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=70a5fd"/>
   <img src="https://img.shields.io/badge/Flask-1a1b27?style=for-the-badge&logo=flask&logoColor=bf91f3"/>
 </p>
 
-<h3>Bancos de dados</h3>
+<h3>🧩 ORM e acesso a dados</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Prisma-1a1b27?style=for-the-badge&logo=prisma&logoColor=70a5fd"/>
+</p>
+
+<h3>🗄️ Bancos de dados e nuvem</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=70a5fd"/>
   <img src="https://img.shields.io/badge/MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=bf91f3"/>
+  <img src="https://img.shields.io/badge/Neon-1a1b27?style=for-the-badge&logo=neon&logoColor=70a5fd"/>
 </p>
 
-<h3>Visão computacional</h3>
+<h3>👁️ Visão computacional</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenCV-1a1b27?style=for-the-badge&logo=opencv&logoColor=70a5fd"/>
@@ -226,7 +252,7 @@ Acesso liberado ou negado
   <img src="https://img.shields.io/badge/YOLO-1a1b27?style=for-the-badge&logoColor=70a5fd"/>
 </p>
 
-<h3>IoT e comunicação</h3>
+<h3>📡 IoT e comunicação</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ESP32-1a1b27?style=for-the-badge&logo=espressif&logoColor=bf91f3"/>
@@ -234,7 +260,7 @@ Acesso liberado ou negado
   <img src="https://img.shields.io/badge/Arduino-1a1b27?style=for-the-badge&logo=arduino&logoColor=bf91f3"/>
 </p>
 
-<h3>Ferramentas</h3>
+<h3>🔧 Ferramentas</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=70a5fd"/>
@@ -270,7 +296,10 @@ Acesso liberado ou negado
   <li>📡 Internet das Coisas</li>
   <li>🏭 Automação Industrial</li>
   <li>🌐 Desenvolvimento Full Stack</li>
-  <li>☁️ Computação em Nuvem</li>
+  <li>🔌 Desenvolvimento de sistemas embarcados com C e C++</li>
+  <li>⚛️ Desenvolvimento de aplicações com React e Next.js</li>
+  <li>🧩 Integração de aplicações com Prisma</li>
+  <li>☁️ Bancos de dados PostgreSQL na nuvem com Neon</li>
   <li>🔐 Sistemas inteligentes de controle de acesso</li>
   <li>📊 Integração entre software, bancos de dados e dispositivos IoT</li>
 </ul>
