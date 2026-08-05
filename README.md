@@ -46,33 +46,42 @@
   src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"
 />
 
-## 👨‍💻 Sobre mim
+<h2>👨‍💻 Sobre mim</h2>
 
-- 🎓 Cursando Tecnologia em Automação Industrial
-- 💻 Cursando Técnico em Desenvolvimento de Sistemas
-- ⚙️ Formado como Técnico em Mecatrônica
-- 🌐 Desenvolvedor Full Stack com Python, Flask, JavaScript, HTML e CSS
-- 🤖 Desenvolvimento de soluções com Inteligência Artificial e Visão Computacional
-- 👁️ Experiência com OpenCV, DeepFace e YOLO
-- 📡 Desenvolvimento de sistemas IoT utilizando ESP32 e MQTT
-- 📶 Comunicação MQTT utilizando o modelo Publish/Subscribe
-- 🗄️ Experiência com PostgreSQL e MySQL
-- 🚀 Sempre buscando aprender novas tecnologias e desenvolver projetos inovadores
+<ul>
+  <li>🎓 Cursando Tecnologia em Automação Industrial</li>
+  <li>💻 Cursando Técnico em Desenvolvimento de Sistemas</li>
+  <li>⚙️ Formado como Técnico em Mecatrônica</li>
+  <li>🌐 Desenvolvedor Full Stack com Python, Flask, JavaScript, HTML e CSS</li>
+  <li>🤖 Desenvolvimento de soluções com Inteligência Artificial e Visão Computacional</li>
+  <li>👁️ Experiência com OpenCV, DeepFace e YOLO</li>
+  <li>📡 Desenvolvimento de sistemas IoT utilizando ESP32 e MQTT</li>
+  <li>📶 Comunicação MQTT utilizando o modelo Publish/Subscribe</li>
+  <li>🗄️ Experiência com PostgreSQL e MySQL</li>
+  <li>🚀 Sempre buscando aprender novas tecnologias e desenvolver projetos inovadores</li>
+</ul>
 
 <img
   width="100%"
   src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"
 />
 
-## 🚀 Projetos em destaque
+<h2>🚀 Projetos em destaque</h2>
 
-### 🔐 Sistema de Reconhecimento Facial com DeepFace
+<h3>🔐 Sistema de Reconhecimento Facial com DeepFace</h3>
 
-Sistema de controle de acesso desenvolvido em Python, utilizando uma webcam para realizar o reconhecimento facial.
+<p>
+  Sistema de controle de acesso desenvolvido em Python, utilizando uma webcam
+  para realizar o reconhecimento facial.
+</p>
 
-O sistema captura a imagem do usuário com OpenCV, realiza a identificação facial utilizando DeepFace, consulta os dados cadastrados no MySQL e envia o resultado para dispositivos IoT por meio do protocolo MQTT.
+<p>
+  O sistema captura a imagem do usuário com OpenCV, realiza a identificação
+  facial utilizando DeepFace, consulta os dados cadastrados no MySQL e envia
+  o resultado para dispositivos IoT por meio do protocolo MQTT.
+</p>
 
-#### Tecnologias utilizadas
+<h4>🛠️ Tecnologias utilizadas</h4>
 
 <p>
   <img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=70a5fd"/>
@@ -87,7 +96,7 @@ O sistema captura a imagem do usuário com OpenCV, realiza a identificação fac
   <img src="https://img.shields.io/badge/ESP32-1a1b27?style=flat-square&logo=espressif&logoColor=bf91f3"/>
 </p>
 
-#### Fluxo do sistema
+<h4>🔄 Fluxo do sistema</h4>
 
 ```text
 Webcam
@@ -116,13 +125,21 @@ Acesso liberado ou negado
 
 <br>
 
-### 🦺 Sistema de Controle de Acesso com Verificação de EPIs
+<h3>🦺 Sistema de Controle de Acesso com Verificação de EPIs</h3>
 
-Projeto de controle de acesso para ambientes industriais utilizando leitura de QR Code, visão computacional e IoT.
+<p>
+  Projeto de controle de acesso para ambientes industriais utilizando leitura
+  de QR Code, visão computacional e IoT.
+</p>
 
-O sistema identifica o colaborador pelo QR Code presente no crachá, verifica automaticamente o uso de capacete e óculos de proteção utilizando YOLO e OpenCV e realiza a liberação ou o bloqueio do acesso por meio do ESP32 e do protocolo MQTT.
+<p>
+  O sistema identifica o colaborador pelo QR Code presente no crachá, verifica
+  automaticamente o uso de capacete e óculos de proteção utilizando YOLO e
+  OpenCV e realiza a liberação ou o bloqueio do acesso por meio do ESP32 e do
+  protocolo MQTT.
+</p>
 
-#### Tecnologias utilizadas
+<h4>🛠️ Tecnologias utilizadas</h4>
 
 <p>
   <img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=70a5fd"/>
@@ -138,7 +155,7 @@ O sistema identifica o colaborador pelo QR Code presente no crachá, verifica au
   <img src="https://img.shields.io/badge/QR_Code-1a1b27?style=flat-square&logo=qrcode&logoColor=70a5fd"/>
 </p>
 
-#### Fluxo do sistema
+<h4>🔄 Fluxo do sistema</h4>
 
 ```text
 Leitura do QR Code
@@ -176,9 +193,9 @@ Acesso liberado ou negado
   src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"
 />
 
-## 🛠️ Tecnologias e ferramentas
+<h2>🛠️ Tecnologias e ferramentas</h2>
 
-### Linguagens
+<h3>Linguagens</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=70a5fd"/>
@@ -187,21 +204,21 @@ Acesso liberado ou negado
   <img src="https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=bf91f3"/>
 </p>
 
-### Backend
+<h3>Backend</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=70a5fd"/>
   <img src="https://img.shields.io/badge/Flask-1a1b27?style=for-the-badge&logo=flask&logoColor=bf91f3"/>
 </p>
 
-### Bancos de dados
+<h3>Bancos de dados</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=70a5fd"/>
   <img src="https://img.shields.io/badge/MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=bf91f3"/>
 </p>
 
-### Visão computacional
+<h3>Visão computacional</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenCV-1a1b27?style=for-the-badge&logo=opencv&logoColor=70a5fd"/>
@@ -209,7 +226,7 @@ Acesso liberado ou negado
   <img src="https://img.shields.io/badge/YOLO-1a1b27?style=for-the-badge&logoColor=70a5fd"/>
 </p>
 
-### IoT e comunicação
+<h3>IoT e comunicação</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ESP32-1a1b27?style=for-the-badge&logo=espressif&logoColor=bf91f3"/>
@@ -217,7 +234,7 @@ Acesso liberado ou negado
   <img src="https://img.shields.io/badge/Arduino-1a1b27?style=for-the-badge&logo=arduino&logoColor=bf91f3"/>
 </p>
 
-### Ferramentas
+<h3>Ferramentas</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=70a5fd"/>
@@ -230,7 +247,7 @@ Acesso liberado ou negado
   src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"
 />
 
-## 🐍 Snake das contribuições
+<h2>🐍 Snake das contribuições</h2>
 
 <p align="center">
   <img
@@ -245,23 +262,25 @@ Acesso liberado ou negado
   src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"
 />
 
-## 🎯 Objetivos
+<h2>🎯 Objetivos</h2>
 
-- 🤖 Inteligência Artificial
-- 👁️ Visão Computacional
-- 📡 Internet das Coisas
-- 🏭 Automação Industrial
-- 🌐 Desenvolvimento Full Stack
-- ☁️ Computação em Nuvem
-- 🔐 Sistemas inteligentes de controle de acesso
-- 📊 Integração entre software, bancos de dados e dispositivos IoT
+<ul>
+  <li>🤖 Inteligência Artificial</li>
+  <li>👁️ Visão Computacional</li>
+  <li>📡 Internet das Coisas</li>
+  <li>🏭 Automação Industrial</li>
+  <li>🌐 Desenvolvimento Full Stack</li>
+  <li>☁️ Computação em Nuvem</li>
+  <li>🔐 Sistemas inteligentes de controle de acesso</li>
+  <li>📊 Integração entre software, bancos de dados e dispositivos IoT</li>
+</ul>
 
 <img
   width="100%"
   src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"
 />
 
-## 👀 Visitantes
+<h2>👀 Visitantes</h2>
 
 <p align="center">
   <img
