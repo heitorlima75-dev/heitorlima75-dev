@@ -25,22 +25,27 @@
   visão computacional, automação e dispositivos IoT.
 </p>
 
-<br>
-
 <p align="center">
+  <a href="mailto:heitor.lima75@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=70a5fd"
+      alt="Gmail"
+    />
+  </a>
 
-<a href="mailto:heitor.lima75@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=70a5fd"/>
-</a>
-
-<a href="https://github.com/heitorlima75-dev">
-<img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=70a5fd"/>
-</a>
-
+  <a href="https://github.com/heitorlima75-dev">
+    <img
+      src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=70a5fd"
+      alt="GitHub"
+    />
+  </a>
 </p>
 
----
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"/>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"
+/>
+
 ## 👨‍💻 Sobre mim
 
 - 🎓 Cursando Tecnologia em Automação Industrial
@@ -54,31 +59,35 @@
 - 🗄️ Experiência com PostgreSQL e MySQL
 - 🚀 Sempre buscando aprender novas tecnologias e desenvolver projetos inovadores
 
----
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"/>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"
+/>
+
 ## 🚀 Projetos em destaque
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"/>
 ### 🔐 Sistema de Reconhecimento Facial com DeepFace
 
-Sistema de controle de acesso desenvolvido em Python, utilizando webcam para realizar reconhecimento facial.
+Sistema de controle de acesso desenvolvido em Python, utilizando uma webcam para realizar o reconhecimento facial.
 
-O sistema captura a imagem do usuário com OpenCV, realiza a identificação facial utilizando DeepFace, consulta os dados cadastrados no MySQL e envia o resultado para dispositivos IoT através do protocolo MQTT.
+O sistema captura a imagem do usuário com OpenCV, realiza a identificação facial utilizando DeepFace, consulta os dados cadastrados no MySQL e envia o resultado para dispositivos IoT por meio do protocolo MQTT.
 
-### Tecnologias
+#### Tecnologias utilizadas
 
-- Python
-- DeepFace
-- OpenCV
-- Flask
-- MySQL
-- HTML
-- CSS
-- JavaScript
-- MQTT
-- ESP32
+<p>
+  <img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=70a5fd"/>
+  <img src="https://img.shields.io/badge/DeepFace-1a1b27?style=flat-square&logoColor=bf91f3"/>
+  <img src="https://img.shields.io/badge/OpenCV-1a1b27?style=flat-square&logo=opencv&logoColor=70a5fd"/>
+  <img src="https://img.shields.io/badge/Flask-1a1b27?style=flat-square&logo=flask&logoColor=bf91f3"/>
+  <img src="https://img.shields.io/badge/MySQL-1a1b27?style=flat-square&logo=mysql&logoColor=70a5fd"/>
+  <img src="https://img.shields.io/badge/HTML5-1a1b27?style=flat-square&logo=html5&logoColor=bf91f3"/>
+  <img src="https://img.shields.io/badge/CSS3-1a1b27?style=flat-square&logo=css3&logoColor=70a5fd"/>
+  <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=flat-square&logo=javascript&logoColor=bf91f3"/>
+  <img src="https://img.shields.io/badge/MQTT-1a1b27?style=flat-square&logo=eclipsemosquitto&logoColor=70a5fd"/>
+  <img src="https://img.shields.io/badge/ESP32-1a1b27?style=flat-square&logo=espressif&logoColor=bf91f3"/>
+</p>
 
-### Fluxo do sistema
+#### Fluxo do sistema
 
 ```text
 Webcam
@@ -90,10 +99,7 @@ OpenCV
 DeepFace
    │
    ▼
-Python
-   │
-   ▼
-Flask
+Python + Flask
    │
    ▼
 MySQL
@@ -108,30 +114,31 @@ ESP32
 Acesso liberado ou negado
 ```
 
----
+<br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"/>
 ### 🦺 Sistema de Controle de Acesso com Verificação de EPIs
 
-Projeto de controle de acesso para ambientes industriais utilizando leitura de QR Code, Visão Computacional e IoT.
+Projeto de controle de acesso para ambientes industriais utilizando leitura de QR Code, visão computacional e IoT.
 
-O sistema identifica o colaborador através do QR Code presente no crachá, verifica automaticamente o uso de capacete e óculos de proteção utilizando YOLO e OpenCV e realiza a liberação ou o bloqueio do acesso através de ESP32 e MQTT.
+O sistema identifica o colaborador pelo QR Code presente no crachá, verifica automaticamente o uso de capacete e óculos de proteção utilizando YOLO e OpenCV e realiza a liberação ou o bloqueio do acesso por meio do ESP32 e do protocolo MQTT.
 
-### Tecnologias
+#### Tecnologias utilizadas
 
-- Python
-- Flask
-- OpenCV
-- YOLO
-- PostgreSQL
-- HTML
-- CSS
-- JavaScript
-- MQTT
-- ESP32
-- QR Code
+<p>
+  <img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=70a5fd"/>
+  <img src="https://img.shields.io/badge/Flask-1a1b27?style=flat-square&logo=flask&logoColor=bf91f3"/>
+  <img src="https://img.shields.io/badge/OpenCV-1a1b27?style=flat-square&logo=opencv&logoColor=70a5fd"/>
+  <img src="https://img.shields.io/badge/YOLO-1a1b27?style=flat-square&logoColor=bf91f3"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-1a1b27?style=flat-square&logo=postgresql&logoColor=70a5fd"/>
+  <img src="https://img.shields.io/badge/HTML5-1a1b27?style=flat-square&logo=html5&logoColor=bf91f3"/>
+  <img src="https://img.shields.io/badge/CSS3-1a1b27?style=flat-square&logo=css3&logoColor=70a5fd"/>
+  <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=flat-square&logo=javascript&logoColor=bf91f3"/>
+  <img src="https://img.shields.io/badge/MQTT-1a1b27?style=flat-square&logo=eclipsemosquitto&logoColor=70a5fd"/>
+  <img src="https://img.shields.io/badge/ESP32-1a1b27?style=flat-square&logo=espressif&logoColor=bf91f3"/>
+  <img src="https://img.shields.io/badge/QR_Code-1a1b27?style=flat-square&logo=qrcode&logoColor=70a5fd"/>
+</p>
 
-### Fluxo do sistema
+#### Fluxo do sistema
 
 ```text
 Leitura do QR Code
@@ -149,7 +156,7 @@ OpenCV
 YOLO verifica os EPIs
         │
         ▼
-Flask
+Python + Flask
         │
         ▼
 PostgreSQL
@@ -164,106 +171,96 @@ ESP32
 Acesso liberado ou negado
 ```
 
----
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"
+/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"/>
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e ferramentas
 
-## Linguagens
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=70a5fd"/>
-
-<img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=bf91f3"/>
-
-<img src="https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=70a5fd"/>
-
-<img src="https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=bf91f3"/>
-
-</p>
-
----
-
-## Backend
+### Linguagens
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Flask-1a1b27?style=for-the-badge&logo=flask&logoColor=70a5fd"/>
-
-<img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=bf91f3"/>
-
+  <img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=70a5fd"/>
+  <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=bf91f3"/>
+  <img src="https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=70a5fd"/>
+  <img src="https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=bf91f3"/>
 </p>
 
----
-
-## Banco de Dados
+### Backend
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/PostgreSQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=70a5fd"/>
-
-<img src="https://img.shields.io/badge/MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=bf91f3"/>
-
+  <img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=70a5fd"/>
+  <img src="https://img.shields.io/badge/Flask-1a1b27?style=for-the-badge&logo=flask&logoColor=bf91f3"/>
 </p>
 
----
-
-## Visão Computacional
+### Bancos de dados
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/OpenCV-1a1b27?style=for-the-badge&logo=opencv&logoColor=70a5fd"/>
-
-<img src="https://img.shields.io/badge/DeepFace-1a1b27?style=for-the-badge&logoColor=bf91f3"/>
-
-<img src="https://img.shields.io/badge/YOLO-1a1b27?style=for-the-badge&logoColor=70a5fd"/>
-
+  <img src="https://img.shields.io/badge/PostgreSQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=70a5fd"/>
+  <img src="https://img.shields.io/badge/MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=bf91f3"/>
 </p>
 
----
-
-## IoT e Comunicação
+### Visão computacional
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/ESP32-1a1b27?style=for-the-badge&logo=espressif&logoColor=bf91f3"/>
-
-<img src="https://img.shields.io/badge/MQTT-Publish%2FSubscribe-1a1b27?style=for-the-badge&logo=eclipsemosquitto&logoColor=70a5fd"/>
-
-<img src="https://img.shields.io/badge/Arduino-1a1b27?style=for-the-badge&logo=arduino&logoColor=bf91f3"/>
-
+  <img src="https://img.shields.io/badge/OpenCV-1a1b27?style=for-the-badge&logo=opencv&logoColor=70a5fd"/>
+  <img src="https://img.shields.io/badge/DeepFace-1a1b27?style=for-the-badge&logoColor=bf91f3"/>
+  <img src="https://img.shields.io/badge/YOLO-1a1b27?style=for-the-badge&logoColor=70a5fd"/>
 </p>
 
----
-
-## Ferramentas
+### IoT e comunicação
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=70a5fd"/>
-
-<img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=bf91f3"/>
-
-<img src="https://img.shields.io/badge/VS_Code-1a1b27?style=for-the-badge&logo=visualstudiocode&logoColor=70a5fd"/>
-
+  <img src="https://img.shields.io/badge/ESP32-1a1b27?style=for-the-badge&logo=espressif&logoColor=bf91f3"/>
+  <img src="https://img.shields.io/badge/MQTT-Publish%2FSubscribe-1a1b27?style=for-the-badge&logo=eclipsemosquitto&logoColor=70a5fd"/>
+  <img src="https://img.shields.io/badge/Arduino-1a1b27?style=for-the-badge&logo=arduino&logoColor=bf91f3"/>
 </p>
 
----
+### Ferramentas
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"/>
-## 🐍 Snake das Contribuições
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=70a5fd"/>
+  <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=bf91f3"/>
+  <img src="https://img.shields.io/badge/VS_Code-1a1b27?style=for-the-badge&logo=visualstudiocode&logoColor=70a5fd"/>
+</p>
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"
+/>
+
+## 🐍 Snake das contribuições
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/heitorlima75-dev/heitorlima75-dev/gh-pages/github-contribution-grid-snake-dark.svg"
     alt="Snake das contribuições do GitHub"
+    width="100%"
   />
 </p>
 
----
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"
+/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"/>
+## 🎯 Objetivos
+
+- 🤖 Inteligência Artificial
+- 👁️ Visão Computacional
+- 📡 Internet das Coisas
+- 🏭 Automação Industrial
+- 🌐 Desenvolvimento Full Stack
+- ☁️ Computação em Nuvem
+- 🔐 Sistemas inteligentes de controle de acesso
+- 📊 Integração entre software, bancos de dados e dispositivos IoT
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"
+/>
+
 ## 👀 Visitantes
 
 <p align="center">
@@ -273,24 +270,10 @@ Acesso liberado ou negado
   />
 </p>
 
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"/>
-## 🎯 Objetivos
-
-- 🤖 Inteligência Artificial
-- 👁️ Visão Computacional
-- 📡 Internet das Coisas
-- 🏭 Automação Industrial
-- 🌐 Desenvolvimento Full Stack
-- ☁️ Computação em Nuvem
-- 🔐 Sistemas Inteligentes de Controle de Acesso
-- 📊 Integração entre software, banco de dados e dispositivos IoT
-
----
+<br>
 
 <p align="center">
-⭐ Obrigado por visitar meu perfil!
-<br><br>
-<i>"Transformando ideias em soluções através da programação, automação e tecnologia."</i>
+  ⭐ Obrigado por visitar meu perfil!
+  <br><br>
+  <i>"Transformando ideias em soluções por meio da programação, automação e tecnologia."</i>
 </p>
